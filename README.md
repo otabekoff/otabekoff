@@ -1,5 +1,5 @@
-### Hi, my nice friend. 👋
-
+## Hi, my nice friend. 👋
+### My website: [OS.G.I](https://otabeksadiridinov.github.io)
 What an amazing things to read below:
 
 - 🆕 Deleting my repos and replacing many components as a UI framework.
