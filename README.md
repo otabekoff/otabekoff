@@ -1,4 +1,7 @@
 ## Hi, my nice friend. 👋
+
+![Welcome to OtabekSadiridinov's github profile!](https://cdn.nav43.com/wp-content/uploads/2017/08/hello-world-binary.gif)
+
 ### My website: [OS.G.I](https://otabeksadiridinov.github.io)
 What an amazing things to read below:
 
