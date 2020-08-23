@@ -4,7 +4,7 @@ My full name is Otabek Sadiridinov.
 I am senior front-end developer at UzDevPro programming community & GoBazar corporation.
 
 
-### My website: [OS.G.I](https://otabeksadiridinov.github.io)
+### My website: [Porfolio & Blog](https://otabeksadiridinov.github.io)
 What an amazing things to read below:
 
 - 🆕 Deleting my repos and replacing many components as a UI framework.
