@@ -16,7 +16,7 @@ What an amazing things to read below:
 - 📫 How to reach me: SadiridinovOtabek@gmail.com
 - 😄 Pronouns: He/Him.
 ---
-#### Find me on the NET!
+### Find me on the NET!
 ###### [Porfolio & Blog](https://otabeksadiridinov.github.io)
 ###### [My NPM packages](https://www.npmjs.com/~otabeksadiridinov)
 ###### [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w)
