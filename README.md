@@ -4,12 +4,19 @@ My full name is Otabek Sadiridinov.
 I am senior front-end developer at UzDevPro programming community & GoBazar corporation.
 
 [Porfolio & Blog](https://otabeksadiridinov.github.io)
+
 [My NPM packages](https://www.npmjs.com/~otabeksadiridinov)
+
 [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w)
+
 [CodePen](https://codepen.io/VueJSAcademy)
+
 [Medium.com](https://vuejsacademy.medium.com/)
+
 [CodePen](https://codepen.io/VueJSAcademy)
+
 [Telegram](https://t.me/Otabek_Mirzo)
+
 [Email](https://otabek-mirzo@umail.uz)
 
 What an amazing things to read below:
