@@ -1,7 +1,6 @@
 ## Hi, my friend. 👋
 
-My full name is Otabek Sadiridinov.
-I am senior front-end developer at UzDevPro programming community & GoBazar corporation.
+My full name is Otabek Sadiridinov. I am a senior front-end developer at UzDevPro programming community & GoBazar corporation.
 
 What an amazing things to read below:
 
