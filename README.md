@@ -18,9 +18,9 @@
 - 😄 Pronouns: He/Him.
 ---
 ### My best projects
-- [Copy as Markdown](https://otabekoff.github.io/CopyAsMarkdown/) - Copy text and paste as Markdown.
-- [MahalliyBaza](https://github.com/otabekoff/mahalliybaza) - Use indexedDB of your browser as easy as pie!  
-- [UniversalTools](https://github.com/otabekoff/universaltools) - VSCODE web-development extensions pack.
+- [Copy as Markdown](https://otabekoff.github.io/CopyAsMarkdown/) - Copy text and paste as Markdown. [Github](https://github.com/otabekoff/CopyAsMarkdown)
+- [MahalliyBaza](https://github.com/otabekoff/mahalliybaza#mahalliybaza-) - Use indexedDB of your browser as easy as pie! [Github](https://github.com/otabekoff/mahalliybaza)
+- [UniversalTools](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools) - VSCODE web-development extensions pack. [Github](https://github.com/otabekoff/universaltools)
 ---
 ### Find me on the NET!
 #### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov) | [Discord](https://discord.gg/gNp98UYMnx) | [Instagram](https://www.instagram.com/bekkypro/)
