@@ -17,7 +17,7 @@ What an amazing things to read below:
 - 😄 Pronouns: He/Him.
 ---
 ### Find me on the NET!
-###### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo)
+#### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo)
 
 Email: *https://otabek-mirzo@umail.uz*
 ---
