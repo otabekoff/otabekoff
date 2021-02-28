@@ -1,11 +1,13 @@
 ## Hi, my friend. 👋
 
+### About me :arrow_down:
 My full name is Otabek Sadiridinov. I am a senior front-end developer at UzDevPro programming community & GoBazar corporation.
 
-I AM WORKING THESE DAYS ON: :arrow_down:
+### I am working these days on: :arrow_down:
 
 - 🆕 Deleting my repos and replacing many components as a UI framework.
 ---
+### More about me :arrow_down:
 - My interests: Physics, Creating mindblowing websites & apps, reading.
 - 🔭 I’m currently working on a great E-commerce website.
 - 🌱 I’m currently learning Vue(Vuex).
@@ -21,5 +23,6 @@ I AM WORKING THESE DAYS ON: :arrow_down:
 Email: *otabek-mirzo@umail.uz*
 
 ---
+### Just a few things..
 - ⚡ Fun fact: Who is the father of mechanics?
 - 😰Couldnt find? : Much of modern engineering mechanics is based on Isaac Newton's laws of motion while the modern practice of their application can be traced back to Stephen Timoshenko, who is said to be the father of modern engineering mechanics. 
