@@ -13,13 +13,13 @@ What an amazing things to read below:
 - 👯 I’m looking to collaborate on VueJS.
 - 🤔 I’m looking for help with Quasar framework components.
 - 💬 Ask me about frontend, web-development and VueJS.
-- 📫 How to reach me: SadiridinovOtabek@gmail.com
+- 📫 How to reach me: otabek-mirzo@umail.uz
 - 😄 Pronouns: He/Him.
 ---
 ### Find me on the NET!
 #### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo)
 
-Email: *https://otabek-mirzo@umail.uz*
+Email: *otabek-mirzo@umail.uz*
 
 ---
 - ⚡ Fun fact: Who is the father of mechanics?
