@@ -18,7 +18,7 @@
 - 😄 Pronouns: He/Him.
 ---
 ### Find me on the NET!
-#### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov)
+#### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov) | Discord(https://discord.gg/gNp98UYMnx) | [Instagram](https://www.instagram.com/bekkypro/)
 
 Email: *otabek-mirzo@umail.uz*
 
