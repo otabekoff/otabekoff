@@ -20,6 +20,7 @@ What an amazing things to read below:
 #### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo)
 
 Email: *https://otabek-mirzo@umail.uz*
+
 ---
 - ⚡ Fun fact: Who is the father of mechanics?
 - 😰Couldnt find? : Much of modern engineering mechanics is based on Isaac Newton's laws of motion while the modern practice of their application can be traced back to Stephen Timoshenko, who is said to be the father of modern engineering mechanics. 
