@@ -7,7 +7,7 @@ What an amazing things to read below:
 
 - 🆕 Deleting my repos and replacing many components as a UI framework.
 ---
-- My interests: Physics, Creating mindblowinng websites & apps, reading.
+- My interests: Physics, Creating mindblowing websites & apps, reading.
 - 🔭 I’m currently working on a great E-commerce website.
 - 🌱 I’m currently learning Vue(Vuex).
 - 👯 I’m looking to collaborate on VueJS.
