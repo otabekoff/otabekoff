@@ -1,5 +1,9 @@
 ## Hi, my friend. 👋
 
+# Donation Button
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/mufiyd)
+
 ### About me
 ***My full name is Otabek Sadiridinov. I am a senior front-end developer at UzDevPro programming community & GoBazar corporation.***
 
