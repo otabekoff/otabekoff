@@ -29,6 +29,14 @@
 
 Email: *otabek-mirzo@umail.uz*
 
+
+
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=otabekoff&hide=stars,issues&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabekoff&show_icons=true&&layout=compact&theme=radical)
+
 ---
 ### Just a few things..
 - ⚡ Fun fact: Who is the father of mechanics?
