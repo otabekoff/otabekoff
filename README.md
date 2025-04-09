@@ -1,12 +1,20 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 👋</h1>
 
-
 [![Donate](https://img.shields.io/badge/Donate-Payme-green.svg)](payme.uz/mufiyd)
 
 ### Welcome to my page!
 <p style="display:flex;align-items:center">I'm Otabek Sadiridinov, a full-stack, senior, front-end developer at UzDevPro programming community & GoBazar corporation.
 
 I am from <img src="https://cdn-icons.flaticon.com/png/512/5315/premium/5315454.png?token=exp=1657892272~hmac=9e46ac82782bbfc93fe6682943f5de03" width="13"/> <b>Namangan, Uzbekistan</b>. </p>
+
+### What I am doing since I've joined to GitHub?
+![image](https://github.com/user-attachments/assets/42f69b04-fa2b-4156-82e1-685c12b5d37d)
+- Helping Open Source projects
+- I'm bug fixing
+- Reporting issue
+- Contributing to Open Source
+- Developing my Design System
+- Developing my tech tools  
 
 <h3>Development tools I've learned:</h3>
 <div>
