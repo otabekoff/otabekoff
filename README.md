@@ -10,7 +10,7 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 ### What I am doing since I've joined to GitHub?
 ![image](https://github.com/user-attachments/assets/42f69b04-fa2b-4156-82e1-685c12b5d37d)
 - Helping Open Source projects
-- I'm bug fixing
+- I'm fixing bugs
 - Reporting issue
 - Contributing to Open Source
 - Developing my Design System
