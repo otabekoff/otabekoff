@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 👋</h1>
 
-[![Donate](https://img.shields.io/badge/Donate-Payme-green.svg)](payme.uz/mufiyd)
+<!--[![Donate](https://img.shields.io/badge/Donate-Payme-green.svg)](payme.uz/mufiyd)-->
 
 ### Welcome to my page!
 <p style="display:flex;align-items:center">I'm Otabek Sadiridinov, a full-stack, senior, front-end developer at UzDevPro programming community & GoBazar corporation.
