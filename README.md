@@ -12,7 +12,7 @@ Since joining GitHub I've been contributing to open source (fixing bugs, reporti
 <p align="center">
 <a href="https://github.com/otabekoff/voice-frame-pro"><img src="cards/voice-frame-pro.svg" width="32%" alt="voice-frame-pro: Real-time voice denoiser plugin (VST3) built with JUCE and RNNoise"/></a>
 <a href="https://github.com/otabekoff/book-craft"><img src="cards/book-craft.svg" width="32%" alt="book-craft: Write a book in Markdown, get a Windows app: portable .exe, setup .exe, .msi or .msix. Tauri 2 + Rust + Vue."/></a>
-<a href="https://github.com/otabekoff/inkplainer-desktop"><img src="cards/inkplainer-desktop.svg" width="32%" alt="inkplainer-desktop: Inkplainer whiteboard animation maker as an offline Windows desktop app: GPU-accelerated, frame-exact 60 fps video export"/></a>
+<a href="https://github.com/otabekoff/inkplainer-desktop"><img src="cards/inkplainer-desktop.svg" width="32%" alt="inkplainer-desktop: Whiteboard animation maker for Windows: scenes, transitions, camera moves, timeline; offline, GPU-accelerated, frame-exact 60 fps video"/></a>
 <a href="https://github.com/otabekoff/joinery"><img src="cards/joinery.svg" width="32%" alt="joinery: Visual database schema designer for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server"/></a>
 <a href="https://github.com/otabekoff/preview-cam"><img src="cards/preview-cam.svg" width="32%" alt="preview-cam: Floating, frameless webcam overlay for Windows with shapes, transparency, click-through and a virtual camera for OBS"/></a>
 <a href="https://github.com/otabekoff/mitti"><img src="cards/mitti.svg" width="32%" alt="mitti: Mitti — Oddiy, tez va ixcham dasturlash tili (Interpreter, Bytecode VM, WebAssembly, LSP)"/></a>
