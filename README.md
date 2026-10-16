@@ -2,6 +2,89 @@
 
 <!--[![Donate](https://img.shields.io/badge/Donate-Payme-green.svg)](payme.uz/mufiyd)-->
 
+I'm **Otabek Sadiridinov**, a Senior Software Engineer from **Namangan, Uzbekistan** <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f1fa-1f1ff.png" width="14" alt="Uzbekistan flag" />. I build desktop apps, developer tools and audio software, lately in C++, Rust, TypeScript and Flutter.
+
+Since joining GitHub I've been contributing to open source (fixing bugs, reporting issues) and building my own design system and developer tools.
+
+### Projects
+<!-- PROJECTS:START -->
+
+<p align="center">
+<a href="https://github.com/otabekoff/voice-frame-pro"><img src="cards/voice-frame-pro.svg" width="32%" alt="voice-frame-pro: Real-time voice denoiser plugin (VST3) built with JUCE and RNNoise"/></a>
+<a href="https://github.com/otabekoff/book-craft"><img src="cards/book-craft.svg" width="32%" alt="book-craft: Write a book in Markdown, get a Windows app: portable .exe, setup .exe, .msi or .msix. Tauri 2 + Rust + Vue."/></a>
+<a href="https://github.com/otabekoff/joinery"><img src="cards/joinery.svg" width="32%" alt="joinery: Visual database schema designer for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server"/></a>
+<a href="https://github.com/otabekoff/preview-cam"><img src="cards/preview-cam.svg" width="32%" alt="preview-cam: Floating, frameless webcam overlay for Windows with shapes, transparency, click-through and a virtual camera for OBS"/></a>
+<a href="https://github.com/otabekoff/mitti"><img src="cards/mitti.svg" width="32%" alt="mitti: Mitti — Oddiy, tez va ixcham dasturlash tili (Interpreter, Bytecode VM, WebAssembly, LSP)"/></a>
+<a href="https://github.com/otabekoff/jojavoy-chikki"><img src="cards/jojavoy-chikki.svg" width="32%" alt="jojavoy-chikki: Oq, qora, kulrang Chrome Dino T-Rexdan charchaganlar uchun O&#x27;zbekcha o&#x27;yin."/></a>
+<a href="https://github.com/otabekoff/nodets"><img src="cards/nodets.svg" width="32%" alt="nodets: NodeTS Project with all the goods I know."/></a>
+<a href="https://github.com/otabekoff/senbrua"><img src="cards/senbrua.svg" width="32%" alt="senbrua: Senbrua – A Linux voice recorder with advanced noise cancellation, designed for high-quality recordings in any environment. Built to be simple, efficient, and user-friendly, supporting multiple audio formats and real-time noise suppression."/></a>
+<a href="https://github.com/otabekoff/rust-jobqueue"><img src="cards/rust-jobqueue.svg" width="32%" alt="rust-jobqueue: A lightweight Rust-based job queue for background tasks with priority, retries, metrics, and SQLite persistence."/></a>
+<a href="https://github.com/otabekoff/ombor"><img src="cards/ombor.svg" width="32%" alt="ombor: Ombor- sizga Firebase uslubidagi sodda, kuchli, foydalanuvchi brauzerida saqlanadigan, IndexedDB ma&#x27;lumotlar bazasida ishlashni osonlashtiradigan offlayn ma&#x27;lumotlar bazasini taqdim etadi."/></a>
+<a href="https://github.com/otabekoff/realchat"><img src="cards/realchat.svg" width="32%" alt="realchat: A GitHub template to quickly get started with Ably, hosted on Netlify, using TypeScript."/></a>
+<a href="https://github.com/otabekoff/power-calculator"><img src="cards/power-calculator.svg" width="32%" alt="power-calculator: Provide a number and its degree (or exponent). This tool calculates the result of raising the number to the given power."/></a>
+<a href="https://github.com/otabekoff/universaltools"><img src="cards/universaltools.svg" width="32%" alt="universaltools: An extension pack for NodeJS, NPM, VueJS, Quasar and HTML, CSS, JS programming languages users to make coding easier."/></a>
+<a href="https://github.com/otabekoff/CopyAsMarkdown"><img src="cards/copyasmarkdown.svg" width="32%" alt="CopyAsMarkdown: Copy text and paste it as Markdown."/></a>
+</p>
+
+<!-- PROJECTS:END -->
+
+### Tech stack
+
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+  <img alt="JUCE" src="https://img.shields.io/badge/JUCE-8DC63F?style=flat-square&logo=juce&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### About me
+
+- 💼 Senior Software Engineer
+- 🛠️ Lately: desktop apps with Tauri (Rust) and Flutter, audio plugins in C++ (JUCE), and [Mitti](https://github.com/otabekoff/mitti), my own programming language
+- 🧠 Interests: physics, building apps, reading
+- 😄 Pronouns: He/Him
+
+### Contact
+
+<p>
+  <a href="https://otabekoff.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white" /></a>
+  <a href="https://t.me/MirzoIbnFaxriddin"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:otabek-mirzo@umail.uz"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~otabeksadiridinov"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0008-3728-3370"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="https://vuejsacademy.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://codepen.io/VueJSAcademy"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=flat-square" /></a>
+  <a href="https://www.behance.net/otabeksadiridinov"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" /></a>
+  <a href="https://discord.gg/gNp98UYMnx"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/bekkypro/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+### Stats
+
+<p>
+  <img src="cards/stats.svg" width="49%" alt="GitHub activity: contributions, commits, pull requests, issues, repositories and stars" />
+  <img src="cards/languages.svg" width="49%" alt="Most used languages by code size across public repositories" />
+</p>
+
+---
+
+### Just a few things..
+- ⚡ Fun fact: Who is the father of mechanics?
+- 😰Couldnt find? : Much of modern engineering mechanics is based on Isaac Newton's laws of motion while the modern practice of their application can be traced back to Stephen Timoshenko, who is said to be the father of modern engineering mechanics.
+
+<!-- Previous version of the sections above, hidden while reviewing:
+
 ### Welcome to my page!
 <p style="display:flex;align-items:center">I'm Otabek Sadiridinov, a full-stack, senior, front-end developer at UzDevPro programming community & GoBazar corporation.
 
@@ -14,7 +97,7 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 - Reporting issue
 - Contributing to Open Source
 - Developing my Design System
-- Developing my tech tools  
+- Developing my tech tools
 
 <h3>Development tools I've learned:</h3>
 <div>
@@ -54,6 +137,43 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material-UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+  </div>
+
+<h3>Development tools I am currently learning:</h3>
+<h3>Development tools I am going to learn:</h3>
+
+### I am working these days on: :arrow_down:
+
+- 🆕 Deleting my repos and replacing many components as a UI framework.
+---
+
+### More about me :arrow_down:
+- My interests: Physics, Creating mindblowing websites & apps, reading.
+- 🔭 I’m currently working on a great E-commerce website.
+- 🌱 I’m currently learning Vue(Vuex).
+- 👯 I’m looking to collaborate on VueJS.
+- 🤔 I’m looking for help with Quasar framework components.
+- 💬 Ask me about frontend, web-development and VueJS.
+- 📫 How to reach me: otabek-mirzo@umail.uz
+- 😄 Pronouns: He/Him.
+
+### Find me on the NET!
+#### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov) | [Discord](https://discord.gg/gNp98UYMnx) | [Instagram](https://www.instagram.com/bekkypro/)
+
+
+I am at [Telegram](https://t.me/MirzoIbnFaxriddin)
+Email: *otabek-mirzo@umail.uz*
+
+
+
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=otabekoff&hide=stars,issues&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabekoff&show_icons=true&&layout=compact&theme=radical)
+-->
+
+<!-- Older hidden content, unchanged: -->
   <!--
   https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
   https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
@@ -195,10 +315,6 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 	https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white
    More in sheihttps://dev.to/envoy_/150-badges-for-github-pnk
   -->
-</p>
-
-<h3>Development tools I am currently learning:</h3>
-<h3>Development tools I am going to learn:</h3>
 
 <!--<h3>Open source projects</h3>
 <table>
@@ -236,64 +352,7 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
   </tbody>
 </table> -->
 
-### I am working these days on: :arrow_down:
-
-- 🆕 Deleting my repos and replacing many components as a UI framework.
----
-### More about me :arrow_down:
-- My interests: Physics, Creating mindblowing websites & apps, reading.
-- 🔭 I’m currently working on a great E-commerce website.
-- 🌱 I’m currently learning Vue(Vuex).
-- 👯 I’m looking to collaborate on VueJS.
-- 🤔 I’m looking for help with Quasar framework components.
-- 💬 Ask me about frontend, web-development and VueJS.
-- 📫 How to reach me: otabek-mirzo@umail.uz
-- 😄 Pronouns: He/Him.
----
-### Projects
-<!-- PROJECTS:START -->
-
-<p align="center">
-<a href="https://github.com/otabekoff/voice-frame-pro"><img src="cards/voice-frame-pro.svg" width="32%" alt="voice-frame-pro: Real-time voice denoiser plugin (VST3) built with JUCE and RNNoise"/></a>
-<a href="https://github.com/otabekoff/book-craft"><img src="cards/book-craft.svg" width="32%" alt="book-craft: Write a book in Markdown, get a Windows app: portable .exe, setup .exe, .msi or .msix. Tauri 2 + Rust + Vue."/></a>
-<a href="https://github.com/otabekoff/joinery"><img src="cards/joinery.svg" width="32%" alt="joinery: Visual database schema designer for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server"/></a>
-<a href="https://github.com/otabekoff/preview-cam"><img src="cards/preview-cam.svg" width="32%" alt="preview-cam: Floating, frameless webcam overlay for Windows with shapes, transparency, click-through and a virtual camera for OBS"/></a>
-<a href="https://github.com/otabekoff/mitti"><img src="cards/mitti.svg" width="32%" alt="mitti: Mitti — Oddiy, tez va ixcham dasturlash tili (Interpreter, Bytecode VM, WebAssembly, LSP)"/></a>
-<a href="https://github.com/otabekoff/jojavoy-chikki"><img src="cards/jojavoy-chikki.svg" width="32%" alt="jojavoy-chikki: Oq, qora, kulrang Chrome Dino T-Rexdan charchaganlar uchun O&#x27;zbekcha o&#x27;yin."/></a>
-<a href="https://github.com/otabekoff/nodets"><img src="cards/nodets.svg" width="32%" alt="nodets: NodeTS Project with all the goods I know."/></a>
-<a href="https://github.com/otabekoff/senbrua"><img src="cards/senbrua.svg" width="32%" alt="senbrua: Senbrua – A Linux voice recorder with advanced noise cancellation, designed for high-quality recordings in any environment. Built to be simple, efficient, and user-friendly, supporting multiple audio formats and real-time noise suppression."/></a>
-<a href="https://github.com/otabekoff/rust-jobqueue"><img src="cards/rust-jobqueue.svg" width="32%" alt="rust-jobqueue: A lightweight Rust-based job queue for background tasks with priority, retries, metrics, and SQLite persistence."/></a>
-<a href="https://github.com/otabekoff/ombor"><img src="cards/ombor.svg" width="32%" alt="ombor: Ombor- sizga Firebase uslubidagi sodda, kuchli, foydalanuvchi brauzerida saqlanadigan, IndexedDB ma&#x27;lumotlar bazasida ishlashni osonlashtiradigan offlayn ma&#x27;lumotlar bazasini taqdim etadi."/></a>
-<a href="https://github.com/otabekoff/realchat"><img src="cards/realchat.svg" width="32%" alt="realchat: A GitHub template to quickly get started with Ably, hosted on Netlify, using TypeScript."/></a>
-<a href="https://github.com/otabekoff/power-calculator"><img src="cards/power-calculator.svg" width="32%" alt="power-calculator: Provide a number and its degree (or exponent). This tool calculates the result of raising the number to the given power."/></a>
-<a href="https://github.com/otabekoff/universaltools"><img src="cards/universaltools.svg" width="32%" alt="universaltools: An extension pack for NodeJS, NPM, VueJS, Quasar and HTML, CSS, JS programming languages users to make coding easier."/></a>
-<a href="https://github.com/otabekoff/CopyAsMarkdown"><img src="cards/copyasmarkdown.svg" width="32%" alt="CopyAsMarkdown: Copy text and paste it as Markdown."/></a>
-</p>
-
-<!-- PROJECTS:END -->
-
----
-### Find me on the NET!
-#### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov) | [Discord](https://discord.gg/gNp98UYMnx) | [Instagram](https://www.instagram.com/bekkypro/)
-
-
-I am at [Telegram](https://t.me/MirzoIbnFaxriddin)
-Email: *otabek-mirzo@umail.uz*
-
-
-
-<br />
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=otabekoff&hide=stars,issues&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otabekoff&show_icons=true&&layout=compact&theme=radical)
-
 <!--<h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 -->
-
----
-### Just a few things..
-- ⚡ Fun fact: Who is the father of mechanics?
-- 😰Couldnt find? : Much of modern engineering mechanics is based on Isaac Newton's laws of motion while the modern practice of their application can be traced back to Stephen Timoshenko, who is said to be the father of modern engineering mechanics. 
