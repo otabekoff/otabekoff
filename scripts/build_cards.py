@@ -41,7 +41,7 @@ REPOS = [
     "MahalliyBaza",  # renamed to "ombor"; duplicates are skipped
 ]
 
-CARD_W, CARD_H, THUMB_H = 400, 336, 200
+CARD_W, CARD_H, THUMB_H = 400, 352, 200
 FONT = '-apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif'
 LANG_COLOURS = {
     "C++": "#f34b7d", "C": "#555555", "Rust": "#dea584", "TypeScript": "#3178c6",
@@ -179,8 +179,8 @@ def card_svg(repo, image):
 <div xmlns="http://www.w3.org/1999/xhtml" style='box-sizing:border-box;width:{CARD_W}px;height:{CARD_H}px;font-family:{FONT};background:#161b22;border:1px solid #30363d;border-radius:12px;overflow:hidden;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased'>
 <img src="{image}" width="{CARD_W}" height="{THUMB_H}" style="display:block;width:{CARD_W}px;height:{THUMB_H}px;object-fit:cover;border-bottom:1px solid #30363d" alt=""/>
 <div style="flex:1;display:flex;flex-direction:column;padding:14px 18px 14px">
-<div style="font-size:17px;font-weight:600;color:#e6edf3;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{html.escape(repo["name"])}</div>
-<div style="margin-top:6px;font-size:13px;line-height:1.45;color:#9198a1;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden">{description}</div>
+<div style="font-size:21px;font-weight:600;color:#e6edf3;line-height:1.25;letter-spacing:-0.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">{html.escape(repo["name"])}</div>
+<div style="margin-top:7px;font-size:13.5px;line-height:1.45;color:#9198a1;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden">{description}</div>
 <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:12.5px;color:#9198a1">{lang_html}<span>{star_icon} {stars}</span></div>
 </div>
 </div>
