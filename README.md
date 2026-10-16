@@ -199,6 +199,7 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 
 <h3>Development tools I am currently learning:</h3>
 <h3>Development tools I am going to learn:</h3>
+
 <!--<h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -234,6 +235,7 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
     </tr>
   </tbody>
 </table> -->
+
 ### I am working these days on: :arrow_down:
 
 - 🆕 Deleting my repos and replacing many components as a UI framework.
@@ -250,6 +252,7 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 ---
 ### Projects
 <!-- PROJECTS:START -->
+
 <p align="center">
 <a href="https://github.com/otabekoff/voice-frame-pro"><img src="cards/voice-frame-pro.svg" width="32%" alt="voice-frame-pro: Real-time voice denoiser plugin (VST3) built with JUCE and RNNoise"/></a>
 <a href="https://github.com/otabekoff/book-craft"><img src="cards/book-craft.svg" width="32%" alt="book-craft: Write a book in Markdown, get a Windows app: portable .exe, setup .exe, .msi or .msix. Tauri 2 + Rust + Vue."/></a>
@@ -266,7 +269,9 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 <a href="https://github.com/otabekoff/universaltools"><img src="cards/universaltools.svg" width="32%" alt="universaltools: An extension pack for NodeJS, NPM, VueJS, Quasar and HTML, CSS, JS programming languages users to make coding easier."/></a>
 <a href="https://github.com/otabekoff/CopyAsMarkdown"><img src="cards/copyasmarkdown.svg" width="32%" alt="CopyAsMarkdown: Copy text and paste it as Markdown."/></a>
 </p>
+
 <!-- PROJECTS:END -->
+
 ---
 ### Find me on the NET!
 #### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov) | [Discord](https://discord.gg/gNp98UYMnx) | [Instagram](https://www.instagram.com/bekkypro/)

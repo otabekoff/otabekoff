@@ -200,7 +200,9 @@ def main():
         f'<a href="{repo["html_url"]}"><img src="cards/{slug}.svg" width="32%" '
         f'alt="{html.escape(repo["name"])}: {html.escape(repo["description"] or "")}"/></a>'
         for repo, slug in items)
-    section = f'{START}\n<p align="center">\n{links}\n</p>\n{END}'
+    # Blank lines matter: a Markdown HTML block runs until the next blank line, so without
+    # them the heading after the section is swallowed and shown as raw text
+    section = f'{START}\n\n<p align="center">\n{links}\n</p>\n\n{END}'
 
     with open(README, encoding="utf-8") as f:
         text = f.read()
