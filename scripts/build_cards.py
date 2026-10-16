@@ -58,6 +58,7 @@ SKIP_IMAGE = re.compile(r"shields\.io|badgen|badge|/actions/workflows/|github-re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 README = os.path.join(ROOT, "README.md")
 CARDS_DIR = os.path.join(ROOT, "cards")
+THUMBS_DIR = os.path.join(ROOT, "thumbnails")  # optional <repo>.svg/.png/.jpg overrides, 2:1
 START, END = "<!-- PROJECTS:START -->", "<!-- PROJECTS:END -->"
 
 
@@ -117,6 +118,22 @@ def thumbnail(readme, full_name, branch):
 
         out = io.BytesIO()
         image.save(out, "JPEG", quality=72, optimize=True, progressive=True)
+        return "data:image/jpeg;base64," + base64.b64encode(out.getvalue()).decode()
+    return None
+
+
+def local_thumbnail(slug):
+    """A hand-picked header from thumbnails/, preferred over README screenshots."""
+    for ext in ("svg", "png", "jpg", "jpeg", "webp"):
+        path = os.path.join(THUMBS_DIR, f"{slug}.{ext}")
+        if not os.path.exists(path):
+            continue
+        if ext == "svg":
+            with open(path, "rb") as f:
+                return "data:image/svg+xml;base64," + base64.b64encode(f.read()).decode()
+        image = Image.open(path).convert("RGB").resize((CARD_W * 2, THUMB_H * 2), Image.LANCZOS)
+        out = io.BytesIO()
+        image.save(out, "JPEG", quality=80, optimize=True, progressive=True)
         return "data:image/jpeg;base64," + base64.b64encode(out.getvalue()).decode()
     return None
 
@@ -187,11 +204,15 @@ def main():
         if not repo.get("description"):
             repo["description"] = summary(readme) or FALLBACK_DESCRIPTIONS.get(repo["name"], "")
 
-        image = thumbnail(readme, repo["full_name"], repo.get("default_branch", "main"))
-        print(f"{'image ' if image else 'cover '} {repo['name']}")
+        slug = repo["name"].lower()
+        image = local_thumbnail(slug)
+        source = "custom"
+        if image is None:
+            image = thumbnail(readme, repo["full_name"], repo.get("default_branch", "main"))
+            source = "readme" if image else "cover"
+        print(f"{source:7} {repo['name']}")
         image = image or generated_cover(repo["name"], repo.get("language"))
 
-        slug = repo["name"].lower()
         with open(os.path.join(CARDS_DIR, f"{slug}.svg"), "w", encoding="utf-8", newline="\n") as f:
             f.write(card_svg(repo, image))
         items.append((repo, slug))
