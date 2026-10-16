@@ -248,10 +248,25 @@ I am from <b>Namangan, Uzbekistan</b> <img src="https://images.emojiterra.com/go
 - 📫 How to reach me: otabek-mirzo@umail.uz
 - 😄 Pronouns: He/Him.
 ---
-### My best projects
-- [Copy as Markdown](https://otabekoff.github.io/CopyAsMarkdown/) - Copy text and paste as Markdown. [Github](https://github.com/otabekoff/CopyAsMarkdown)
-- [MahalliyBaza](https://github.com/otabekoff/mahalliybaza#mahalliybaza-) - Use indexedDB of your browser as easy as pie! [Github](https://github.com/otabekoff/mahalliybaza)
-- [UniversalTools](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools) - VSCODE web-development extensions pack. [Github](https://github.com/otabekoff/universaltools)
+### Projects
+<!-- PROJECTS:START -->
+<p align="center">
+<a href="https://github.com/otabekoff/voice-frame-pro"><img src="cards/voice-frame-pro.svg" width="32%" alt="voice-frame-pro: Real-time voice denoiser plugin (VST3) built with JUCE and RNNoise"/></a>
+<a href="https://github.com/otabekoff/book-craft"><img src="cards/book-craft.svg" width="32%" alt="book-craft: Write a book in Markdown, get a Windows app: portable .exe, setup .exe, .msi or .msix. Tauri 2 + Rust + Vue."/></a>
+<a href="https://github.com/otabekoff/joinery"><img src="cards/joinery.svg" width="32%" alt="joinery: Visual database schema designer for PostgreSQL, MySQL, MariaDB, SQLite and SQL Server"/></a>
+<a href="https://github.com/otabekoff/preview-cam"><img src="cards/preview-cam.svg" width="32%" alt="preview-cam: Floating, frameless webcam overlay for Windows with shapes, transparency, click-through and a virtual camera for OBS"/></a>
+<a href="https://github.com/otabekoff/mitti"><img src="cards/mitti.svg" width="32%" alt="mitti: Mitti — Oddiy, tez va ixcham dasturlash tili (Interpreter, Bytecode VM, WebAssembly, LSP)"/></a>
+<a href="https://github.com/otabekoff/jojavoy-chikki"><img src="cards/jojavoy-chikki.svg" width="32%" alt="jojavoy-chikki: Oq, qora, kulrang Chrome Dino T-Rexdan charchaganlar uchun O&#x27;zbekcha o&#x27;yin."/></a>
+<a href="https://github.com/otabekoff/nodets"><img src="cards/nodets.svg" width="32%" alt="nodets: NodeTS Project with all the goods I know."/></a>
+<a href="https://github.com/otabekoff/senbrua"><img src="cards/senbrua.svg" width="32%" alt="senbrua: Senbrua – A Linux voice recorder with advanced noise cancellation, designed for high-quality recordings in any environment. Built to be simple, efficient, and user-friendly, supporting multiple audio formats and real-time noise suppression."/></a>
+<a href="https://github.com/otabekoff/rust-jobqueue"><img src="cards/rust-jobqueue.svg" width="32%" alt="rust-jobqueue: A lightweight Rust-based job queue for background tasks with priority, retries, metrics, and SQLite persistence."/></a>
+<a href="https://github.com/otabekoff/ombor"><img src="cards/ombor.svg" width="32%" alt="ombor: Ombor- sizga Firebase uslubidagi sodda, kuchli, foydalanuvchi brauzerida saqlanadigan, IndexedDB ma&#x27;lumotlar bazasida ishlashni osonlashtiradigan offlayn ma&#x27;lumotlar bazasini taqdim etadi."/></a>
+<a href="https://github.com/otabekoff/realchat"><img src="cards/realchat.svg" width="32%" alt="realchat: A GitHub template to quickly get started with Ably, hosted on Netlify, using TypeScript."/></a>
+<a href="https://github.com/otabekoff/power-calculator"><img src="cards/power-calculator.svg" width="32%" alt="power-calculator: Provide a number and its degree (or exponent). This tool calculates the result of raising the number to the given power."/></a>
+<a href="https://github.com/otabekoff/universaltools"><img src="cards/universaltools.svg" width="32%" alt="universaltools: An extension pack for NodeJS, NPM, VueJS, Quasar and HTML, CSS, JS programming languages users to make coding easier."/></a>
+<a href="https://github.com/otabekoff/CopyAsMarkdown"><img src="cards/copyasmarkdown.svg" width="32%" alt="CopyAsMarkdown: Copy text and paste it as Markdown."/></a>
+</p>
+<!-- PROJECTS:END -->
 ---
 ### Find me on the NET!
 #### [Porfolio & Blog](https://otabeksadiridinov.github.io) | [My NPM packages](https://www.npmjs.com/~otabeksadiridinov) | [Youtube channel](https://www.youtube.com/channel/UC3nIYauvUl-P2P6-ol04I3w) | [CodePen](https://codepen.io/VueJSAcademy) | [Medium.com](https://vuejsacademy.medium.com/) | [Telegram](https://t.me/Otabek_Mirzo) | [Dribbble](https://dribbble.com/bekki) | [Bēhance](https://www.behance.net/otabeksadiridinov) | [Discord](https://discord.gg/gNp98UYMnx) | [Instagram](https://www.instagram.com/bekkypro/)
