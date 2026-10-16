@@ -26,6 +26,7 @@ OWNER = "otabekoff"
 REPOS = [
     "voice-frame-pro",
     "book-craft",
+    "inkplainer-desktop",
     "joinery",
     "preview-cam",
     "mitti",
