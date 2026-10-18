@@ -62,6 +62,19 @@ CARDS_DIR = os.path.join(ROOT, "cards")
 THUMBS_DIR = os.path.join(ROOT, "thumbnails")  # optional <repo>.svg/.png/.jpg overrides, 2:1
 START, END = "<!-- PROJECTS:START -->", "<!-- PROJECTS:END -->"
 
+# Responsive cards without CSS (GitHub strips it from READMEs): each card is written twice with a
+# different built-in size. <picture><source media> picks the phone version on small screens.
+#   cards/<slug>.svg         260px wide  -> 3 per row on desktop, 2 on tablets
+#   cards/<slug>-mobile.svg  1200px wide -> max-width:100% makes it exactly the screen width
+CARD_DISPLAY_W, CARD_MOBILE_W, MOBILE_BREAKPOINT = 260, 1200, 544
+
+
+def sized(svg, width):
+    """Change only the root <svg> width/height; the viewBox keeps the drawing identical."""
+    root = f'width="{CARD_W}" height="{CARD_H}" viewBox="0 0 {CARD_W} {CARD_H}"'
+    return svg.replace(root, f'width="{width}" height="{round(CARD_H * width / CARD_W)}" '
+                             f'viewBox="0 0 {CARD_W} {CARD_H}"', 1)
+
 
 def fetch(url, accept=None, raw=False):
     headers = {"User-Agent": "profile-cards"}
@@ -214,13 +227,17 @@ def main():
         print(f"{source:7} {repo['name']}")
         image = image or generated_cover(repo["name"], repo.get("language"))
 
-        with open(os.path.join(CARDS_DIR, f"{slug}.svg"), "w", encoding="utf-8", newline="\n") as f:
-            f.write(card_svg(repo, image))
+        svg = card_svg(repo, image)
+        for suffix, width in (("", CARD_DISPLAY_W), ("-mobile", CARD_MOBILE_W)):
+            with open(os.path.join(CARDS_DIR, f"{slug}{suffix}.svg"), "w", encoding="utf-8", newline="\n") as f:
+                f.write(sized(svg, width))
         items.append((repo, slug))
 
     links = "\n".join(
-        f'<a href="{repo["html_url"]}"><img src="cards/{slug}.svg" width="32%" '
-        f'alt="{html.escape(repo["name"])}: {html.escape(repo["description"] or "")}"/></a>'
+        f'<a href="{repo["html_url"]}"><picture>'
+        f'<source media="(max-width: {MOBILE_BREAKPOINT}px)" srcset="cards/{slug}-mobile.svg"/>'
+        f'<img src="cards/{slug}.svg" '
+        f'alt="{html.escape(repo["name"])}: {html.escape(repo["description"] or "")}"/></picture></a>'
         for repo, slug in items)
     # Blank lines matter: a Markdown HTML block runs until the next blank line, so without
     # them the heading after the section is swallowed and shown as raw text
